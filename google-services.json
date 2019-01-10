@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93348451660",
+    "firebase_url": "https://delivery-f2be5.firebaseio.com",
+    "project_id": "delivery-f2be5",
+    "storage_bucket": "delivery-f2be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93348451660:android:ce0ded48ebefaf22",
+        "android_client_info": {
+          "package_name": "eyh.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93348451660-31otafskgsovobm34ebqd0t9mc3e0gp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelYVW__vQF_jL_srbt_LTpW33-p00GSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
