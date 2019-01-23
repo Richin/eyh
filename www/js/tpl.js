@@ -450,10 +450,10 @@ function OrderDetails(data)
 	html+='</ons-col> 	        ';
    html+='</ons-list-item>';*/
 
-    html+='<ons-col width="10%">';
+    /*html+='<ons-col width="10%">';
 	    html+='<ons-icon icon="ion-ios-arrow-right" size="20px"></ons-icon>';
 	html+='</ons-col>';
-   html+='</ons-list-item>';
+   html+='</ons-list-item>';*/
    return html;
 }
 
