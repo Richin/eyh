@@ -4,7 +4,7 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "eyh.driver.app"
     versionCode = "17"
-    version   = "1.7.3"
+    version   = "1.7.4"
     >
     <name>Eyh Driver App</name>
     <description>
